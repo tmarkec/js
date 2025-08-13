@@ -26,20 +26,8 @@ Your mission is to **find them** 🕵️‍♀️ and **fix the app** so it work
 
 ## 📦 Project Setup
 
-### Option 1 — Fork & Edit on GitHub
-1. Go to the project repository link your teacher provided.  
-2. Click the **"Fork"** button in the top-right corner of the GitHub page.  
-   - This makes your own **copy** of the project under your GitHub account.  
-3. Open your forked repository.  
-4. Click the **"Code"** button, then:
-   - Either **Download ZIP** and open it locally.  
-   - Or **Copy the HTTPS/SSH URL** to clone with Git.  
-
-### Option 2 — Edit Locally
-1. Download the project as a `.zip` file.  
-2. Extract the `.zip` file to a folder.  
-3. Open the folder in **VS Code** or your favorite editor.  
-4. Open the `index.html` file in your browser.  
+### Before you start coding
+First you need to either **[clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)** this repository, to work on the code in your local environment. Or you can **[fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)** it to your own GitHub account and then open it in a cloud-based code editor (or even clone it from there).
 
 ---
 
