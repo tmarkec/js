@@ -3,7 +3,7 @@
 Welcome!  
 This is a small **JavaScript DOM manipulation** project... with a twist:  
 There are **intentional bugs** hidden in the code.  
-Your mission is to **find them** 🕵️‍♀️ and **fix the app** so it works properly.  
+Your goal is to **find them** 🕵️‍♀️ and **fix the app** so it works properly.  
 
 ---
 
